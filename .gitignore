@@ -1,0 +1,8 @@
+venv/
+simcse-model/
+output/
+output_raw/
+beir_data/
+__pycache__/
+*.pyc
+*.csv

@@ -156,7 +156,7 @@ These results suggest that combining semantic and lexical signals can improve re
 ## 📁 Project Structure
 
 ```text
-road-to-AI/
+semantic-search/
 │
 ├── train.py           # Self-supervised contrastive training
 ├── baselines.py       # Baseline methods and evaluation
@@ -180,8 +180,8 @@ road-to-AI/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/salman-anik/road-to-AI.git
-cd road-to-AI
+git clone https://github.com/salman-anik/semantic-search.git
+cd semantic-search
 ```
 
 ### 2. Create a Virtual Environment

@@ -1,30 +1,113 @@
-Sakib is a 21-year-old university student who lives in a rented room in Mirpur, Dhaka, with two other students.
-Sakib comes from a small town in Bogura, and his parents and younger sister still live there.
-Sakib studies economics and is in the third year of his four-year degree.
-Every morning Sakib catches a crowded bus to campus, and the ride takes over an hour when the traffic is bad.
-During the monsoon, the roads near Sakib's room fill with water, so he walks through the flooded street or takes a rickshaw.
-Sakib eats breakfast at a tea stall near his room, where he usually has paratha, an egg and a cup of tea.
-For lunch Sakib often goes to a cheap canteen near campus that serves rice, lentils and fish curry.
-Biryani is Sakib's favorite food, and he treats himself to a plate on Friday evenings.
-Sakib earns some pocket money by teaching math to two school students at their home in the evenings.
-Sakib shares his monthly room rent equally with his roommates, and they split the electricity and gas bills.
-Sakib receives money from his father through bKash at the start of each month, and he also pays small bills with the app.
-When there is load shedding, Sakib studies by the light of a rechargeable lamp and charges his phone with a power bank.
-Sakib's biggest hobby is cricket, and he plays with friends on a nearby field every Friday morning.
-Sakib never misses a Bangladesh national team match and watches it on TV at a friend's house.
-Before final exams Sakib studies in the university library until it closes, then continues at his desk in his room.
-Sakib struggles with statistics, so he joined a study group with three classmates who meet twice a week.
-Sakib is a member of the university debate club, which meets every Thursday afternoon to practice public speaking.
-Sakib wants to find an internship at a bank or a company in the final year of his studies.
-He is learning English by watching videos and reading news so that he can do well in job interviews.
-Sakib often feels homesick, and he calls his mother every night after dinner.
-Before Eid, Sakib travels home by train, and he must book his ticket days in advance because the seats sell out fast.
-During Eid, Sakib visits his relatives, eats his grandmother's sweet vermicelli and receives small gifts from the elders.
-On Pohela Boishakh Sakib wears a panjabi, eats panta bhat with fried fish, and walks around the fair with his friends.
-Sakib has a small old smartphone, and he is saving money to buy a laptop for his studies.
-When Sakib has a cold or fever, he visits a nearby pharmacy and sees a doctor at the local clinic if he does not get better.
-Sakib's roommate Imran snores loudly, so Sakib sometimes uses earphones to sleep.
-On weekends Sakib sometimes goes to Hatirjheel with friends to enjoy the evening breeze and street snacks.
-Sakib's father is a school teacher, and his mother takes care of the home and a small vegetable garden.
-Sakib's younger sister Nusrat is in high school, and he helps her with English homework through video calls.
-Sakib dreams of working abroad for a few years and then coming back to Bangladesh to start his own business.
+Anik is a Computer Science and Engineering student at East West University (EWU) in Dhaka, Bangladesh.
+He began his undergraduate studies in 2023 and expects to graduate in 2028.
+He completed his Secondary School Certificate (SSC) in the Science group between 2016 and 2020 and achieved a Golden A+.
+He completed his Higher Secondary Certificate (HSC) in the Science group between 2020 and 2022 and achieved an A+.
+His previous educational institutions include Government Swarupkathi Pilot Model High School and Shahid Smrity Degree College.
+Anik is currently focused on developing his technical knowledge, improving his programming skills, and preparing for a professional career in technology.
+Anik has a strong interest in Data Science, Artificial Intelligence, Machine Learning, Natural Language Processing, and software development.
+He has chosen Data Science as his major area of interest within Computer Science and Engineering.
+He wants to understand how computers process information, identify patterns in data, learn from examples, and generate useful results.
+He is particularly interested in using data to solve real-world problems and building intelligent applications that understand language and retrieve relevant information.
+His current learning priority is Python because it is an essential programming language for data analysis, machine learning, artificial intelligence, and NLP.
+Anik is learning several programming languages and technologies, including C, C++, Python, Java, JavaScript, HTML, CSS, React, and MySQL.
+His programming experience varies by technology.
+He has basic knowledge of C and Java, is learning Python, and is developing his JavaScript and React skills.
+He has worked with HTML and CSS and is interested in building modern websites using React and Vite.
+He also wants to improve his understanding of algorithms, data structures, object-oriented programming, debugging, and software development practices.
+He prefers to understand the logic behind a program rather than simply memorizing code.
+He often learns by reading examples, running programs, correcting errors, and modifying existing implementations.
+Anik wants to develop a strong foundation in Data Science before moving toward advanced machine learning topics.
+His learning interests include Python fundamentals, NumPy, pandas, data visualization, statistics, probability, linear algebra, data cleaning, exploratory data analysis, SQL, feature engineering, supervised learning, unsupervised learning, model evaluation, and deep learning.
+He wants to learn how to collect datasets, identify missing values, remove duplicate records, transform raw data, visualize patterns, train machine learning models, and interpret the results.
+He is also interested in understanding how mathematical concepts support machine learning algorithms.
+His long-term goal is to become capable of building complete data-driven applications rather than only writing isolated programs.
+Anik is currently working on an academic Natural Language Processing project titled "Self-Supervised Semantic Search Using Contrastive Representation Learning.
+" The project aims to create a semantic search system that understands the meaning of a user's query and retrieves documents that are conceptually relevant.
+Traditional keyword search may fail when a query and a document use different words to express similar ideas.
+Semantic search attempts to solve this problem by representing sentences or documents as numerical vectors called embeddings.
+These embeddings can be compared using similarity measures to identify content with related meanings.
+For example, a user might search for "ways to learn programming" while a document contains the phrase "a beginner's guide to software development.
+" A semantic search engine should recognize the conceptual relationship between these expressions even though their wording differs.
+The semantic search project explores sentence embeddings, contrastive representation learning, self-supervised learning, similarity measurement, and document retrieval.
+Contrastive learning involves learning representations that bring related examples closer together and distinguish less-related examples.
+Self-supervised learning uses relationships or signals derived from data to support training without requiring every example to have a manually assigned label.
+The project intends to use Python and Sentence Transformers to generate sentence embeddings and a Gradio interface to provide a user-friendly search experience.
+The system will accept a text query, compare it with a collection of documents, rank the documents according to semantic similarity, and display the most relevant results.
+Anik is developing this project with two other university students, making a team of three.
+The expected development timeline is two to three months.
+As a beginner in NLP, he wants to follow a practical roadmap, understand each stage of implementation, test the system with different queries, and evaluate whether the retrieved documents are relevant.
+Anik is interested in the broader field of Natural Language Processing because it enables computers to work with human language.
+He wants to understand tasks such as text classification, sentiment analysis, semantic similarity, information retrieval, question answering, text summarization, and chatbot development.
+He recognizes that semantic search is different from ordinary keyword matching because semantic search focuses on the meaning and context of language.
+He wants to explore how transformer-based models and sentence embedding models can improve search quality.
+He is also interested in comparing different approaches, measuring retrieval performance, and understanding the limitations of machine learning models.
+His current NLP project is an opportunity to connect theoretical concepts with practical software development.
+Anik is also interested in database management systems.
+His university coursework includes relational database concepts, entity-relationship diagrams, relational algebra, SQL queries, normalization, indexing, transactions, and database design.
+He has explored a canteen database project with tables for customers, food items, orders, and order items.
+The customer table stores customer information, the item table stores food item details and prices, the order table records customer purchases, and the order-item table connects individual items to their orders and quantities.
+Through such projects, he wants to understand how relational databases organize information and how applications create, retrieve, update, and manage records.
+He is interested in connecting databases with backend services and designing systems that maintain data consistency.
+Anik has also studied or explored subjects related to data structures, algorithms, operating systems, computer networking, physics, and economics as part of his academic work.
+His interests in data structures include linked lists, stacks, trees, and related programming techniques.
+He wants to understand how different data structures organize information and how algorithmic choices affect efficiency.
+His operating systems coursework has introduced him to concepts such as processes, threads, synchronization, mutexes, and semaphores.
+He has explored a multithreading-based museum study-tour simulation in which students and limited resources must be coordinated.
+These academic experiences help him connect programming concepts with the behavior of real computer systems.
+Anik is interested in developing applications that solve practical problems for university students and local communities.
+One of his ideas is an EWU Room Finder that helps students locate classrooms and other facilities on the East West University campus.
+The application could store information about buildings, floors, room numbers, stairs, and relevant navigation details.
+He is interested in collecting room information using a mobile-friendly interface and presenting simple directions without requiring a complete three-dimensional model of every building.
+Another idea is a course roadmap planner that allows students to organize their university courses across semesters.
+The application could consider course prerequisites, credit limits, semester planning, and PDF export while allowing students to select their own courses.
+He has also explored a local service request and tracking application that connects customers, administrators, and technicians.
+Such an application could track requests through statuses such as Pending, In Progress, and Completed while organizing service information and billing records.
+Anik has experience working with ideas involving HTML, CSS, JavaScript, Google Sheets, PapaParse, and browser local storage.
+One of his application concepts, called Uddog, involves a web interface designed to use spreadsheet-based information.
+He has also explored packaging a web application for Android using a WebView.
+These interests show that he wants to understand how web technologies can be used to build lightweight applications and how data can move between a user interface and a storage source.
+He is interested in developing interfaces that work on mobile devices and prefers clear navigation, readable text, and practical controls over unnecessarily complicated designs.
+Anik is also interested in improving his professional online presence.
+He wants to create a clean, modern, and professional GitHub profile that highlights his technical interests and projects.
+He also wants a professional portfolio website with a simple white-and-black design, subtle animations, responsive layouts, a personal introduction, a skills section, and space to showcase future projects.
+He prefers not to exaggerate his abilities or list projects and professional experiences that he has not actually completed.
+Anik's current technical development environment is a Windows 64-bit computer with an Intel Core i7-1165G7 processor, 16 GB of RAM, an SSD, and Intel Iris Xe integrated graphics.
+He uses or explores programming tools and environments such as Python, Git, Node.
+js, React, Vite, Java development tools, and database software.
+He has encountered practical setup issues involving Python package compatibility, npm execution policies, Git errors, file paths, and development servers.
+He wants instructions that help him understand and resolve these issues directly on his computer.
+He appreciates complete, working code examples and precise setup steps that explain which commands to execute and where to execute them.
+Anik prefers beginner-friendly explanations and practical learning methods.
+When studying a difficult topic, he often benefits from explanations that begin with the basic concept, introduce a small example, show the expected output, and then explain each step.
+He prefers code that is readable and understandable rather than unnecessarily complicated.
+He often asks for complete code that he can copy, run, and modify.
+He also likes educational materials in HTML or PDF format when they make complicated subjects easier to review.
+He is interested in visual roadmaps, diagrams, and simple demonstrations when they help explain technical concepts.
+He wants to learn independently but values clear guidance when starting a new subject or project.
+Anik prefers clean and minimal visual designs.
+For websites, he generally likes white backgrounds, black text, consistent spacing, subtle hover effects, smooth transitions, and responsive layouts.
+He wants interfaces to look professional without excessive decoration.
+He is interested in both frontend and backend development, although his current priority is Python and Data Science rather than mastering every web development framework.
+He may explore additional technologies in the future, including mobile application development frameworks, depending on the requirements of his projects.
+Anik's career interests include Data Analyst, Data Scientist, Machine Learning Engineer, and AI-related roles.
+He wants to understand the differences between these careers and identify the skills required for each one.
+He is interested in the job market in Bangladesh, realistic salary expectations, practical portfolio development, and opportunities to gain experience through projects and internships.
+He wants to strengthen his foundations before applying for professional roles.
+He is also interested in legitimate online earning opportunities and wants to develop marketable technical skills that may eventually support freelance work or other digital income opportunities.
+He values sustainable skill development and wants his future work to reflect his actual abilities.
+Anik enjoys exploring technology, programming tools, artificial intelligence applications, educational resources, and ideas for useful software.
+He is interested in how AI systems retrieve information, understand text, generate responses, and assist with problem-solving.
+He is currently particularly focused on using his NLP project to experiment with semantic search.
+He wants to understand how a search system processes a query, converts text into embeddings, compares vectors, ranks documents, and presents results.
+He is also interested in improving the interface so that users can search naturally and understand why certain documents are retrieved.
+Anik wants to improve his problem-solving ability, academic knowledge, programming confidence, and communication skills.
+He believes that completing practical projects is an important way to turn theoretical knowledge into usable skills.
+He wants to document his learning process, maintain a portfolio of completed work, and gradually develop more complex applications.
+He recognizes that becoming proficient in Data Science and AI requires consistent practice in programming, mathematics, data handling, model evaluation, and software engineering.
+His current priority is to learn Python and successfully implement his semantic search project, while his broader goal is to develop the knowledge and experience needed for a career in Data Science and Artificial Intelligence.
+Overall, Anik is a CSE student who is developing his technical skills and exploring the intersection of programming, data, and artificial intelligence.
+His academic background includes science education and undergraduate computer science studies.
+His technical interests include Python, SQL, Data Science, machine learning, NLP, semantic search, databases, web development, algorithms, and operating systems.
+His current major project focuses on self-supervised semantic search using contrastive representation learning.
+He prefers practical projects, beginner-friendly explanations, readable code, and clean software interfaces.
+He aims to build a strong technical foundation, complete meaningful projects, maintain a professional portfolio, and eventually become a skilled professional in Data Science or Artificial Intelligence.

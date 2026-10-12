@@ -13,7 +13,8 @@ from sentence_transformers import SentenceTransformer
 MODEL_PATH = "simcse-model"   # the model trained by train.py
 DOC_FILE = "demo.txt"         # one document per line; replace this file for a new demo
 TOP_K = 3                     # how many results to show
-ALPHA = 0.7                   # 70% our model + 30% BM25 (the mix found in hybrid.py)
+# 70% our model + 30% BM25 (the mix found in hybrid.py)
+ALPHA = 0.7
 
 # ---------------------------------------------------------------
 # Model and documents
@@ -221,7 +222,8 @@ with gr.Blocks(title="Semantic Search") as app:
             lines=1,
             scale=5,
         )
-        search_btn = gr.Button("Search", variant="primary", scale=1, min_width=110)
+        search_btn = gr.Button(
+            "Search", variant="primary", scale=1, min_width=110)
     results = gr.HTML(value=EMPTY)
 
     search_btn.click(search, query, results)

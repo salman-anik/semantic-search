@@ -1,113 +1,153 @@
-Anik is a Computer Science and Engineering student at East West University (EWU) in Dhaka, Bangladesh.
-He began his undergraduate studies in 2023 and expects to graduate in 2028.
-He completed his Secondary School Certificate (SSC) in the Science group between 2016 and 2020 and achieved a Golden A+.
-He completed his Higher Secondary Certificate (HSC) in the Science group between 2020 and 2022 and achieved an A+.
-His previous educational institutions include Government Swarupkathi Pilot Model High School and Shahid Smrity Degree College.
-Anik is currently focused on developing his technical knowledge, improving his programming skills, and preparing for a professional career in technology.
-Anik has a strong interest in Data Science, Artificial Intelligence, Machine Learning, Natural Language Processing, and software development.
-He has chosen Data Science as his major area of interest within Computer Science and Engineering.
-He wants to understand how computers process information, identify patterns in data, learn from examples, and generate useful results.
-He is particularly interested in using data to solve real-world problems and building intelligent applications that understand language and retrieve relevant information.
-His current learning priority is Python because it is an essential programming language for data analysis, machine learning, artificial intelligence, and NLP.
-Anik is learning several programming languages and technologies, including C, C++, Python, Java, JavaScript, HTML, CSS, React, and MySQL.
-His programming experience varies by technology.
-He has basic knowledge of C and Java, is learning Python, and is developing his JavaScript and React skills.
-He has worked with HTML and CSS and is interested in building modern websites using React and Vite.
-He also wants to improve his understanding of algorithms, data structures, object-oriented programming, debugging, and software development practices.
-He prefers to understand the logic behind a program rather than simply memorizing code.
-He often learns by reading examples, running programs, correcting errors, and modifying existing implementations.
-Anik wants to develop a strong foundation in Data Science before moving toward advanced machine learning topics.
-His learning interests include Python fundamentals, NumPy, pandas, data visualization, statistics, probability, linear algebra, data cleaning, exploratory data analysis, SQL, feature engineering, supervised learning, unsupervised learning, model evaluation, and deep learning.
-He wants to learn how to collect datasets, identify missing values, remove duplicate records, transform raw data, visualize patterns, train machine learning models, and interpret the results.
-He is also interested in understanding how mathematical concepts support machine learning algorithms.
-His long-term goal is to become capable of building complete data-driven applications rather than only writing isolated programs.
-Anik is currently working on an academic Natural Language Processing project titled "Self-Supervised Semantic Search Using Contrastive Representation Learning.
-" The project aims to create a semantic search system that understands the meaning of a user's query and retrieves documents that are conceptually relevant.
-Traditional keyword search may fail when a query and a document use different words to express similar ideas.
-Semantic search attempts to solve this problem by representing sentences or documents as numerical vectors called embeddings.
-These embeddings can be compared using similarity measures to identify content with related meanings.
-For example, a user might search for "ways to learn programming" while a document contains the phrase "a beginner's guide to software development.
-" A semantic search engine should recognize the conceptual relationship between these expressions even though their wording differs.
-The semantic search project explores sentence embeddings, contrastive representation learning, self-supervised learning, similarity measurement, and document retrieval.
-Contrastive learning involves learning representations that bring related examples closer together and distinguish less-related examples.
-Self-supervised learning uses relationships or signals derived from data to support training without requiring every example to have a manually assigned label.
-The project intends to use Python and Sentence Transformers to generate sentence embeddings and a Gradio interface to provide a user-friendly search experience.
-The system will accept a text query, compare it with a collection of documents, rank the documents according to semantic similarity, and display the most relevant results.
-Anik is developing this project with two other university students, making a team of three.
-The expected development timeline is two to three months.
-As a beginner in NLP, he wants to follow a practical roadmap, understand each stage of implementation, test the system with different queries, and evaluate whether the retrieved documents are relevant.
-Anik is interested in the broader field of Natural Language Processing because it enables computers to work with human language.
-He wants to understand tasks such as text classification, sentiment analysis, semantic similarity, information retrieval, question answering, text summarization, and chatbot development.
-He recognizes that semantic search is different from ordinary keyword matching because semantic search focuses on the meaning and context of language.
-He wants to explore how transformer-based models and sentence embedding models can improve search quality.
-He is also interested in comparing different approaches, measuring retrieval performance, and understanding the limitations of machine learning models.
-His current NLP project is an opportunity to connect theoretical concepts with practical software development.
-Anik is also interested in database management systems.
-His university coursework includes relational database concepts, entity-relationship diagrams, relational algebra, SQL queries, normalization, indexing, transactions, and database design.
-He has explored a canteen database project with tables for customers, food items, orders, and order items.
-The customer table stores customer information, the item table stores food item details and prices, the order table records customer purchases, and the order-item table connects individual items to their orders and quantities.
-Through such projects, he wants to understand how relational databases organize information and how applications create, retrieve, update, and manage records.
-He is interested in connecting databases with backend services and designing systems that maintain data consistency.
-Anik has also studied or explored subjects related to data structures, algorithms, operating systems, computer networking, physics, and economics as part of his academic work.
-His interests in data structures include linked lists, stacks, trees, and related programming techniques.
-He wants to understand how different data structures organize information and how algorithmic choices affect efficiency.
-His operating systems coursework has introduced him to concepts such as processes, threads, synchronization, mutexes, and semaphores.
-He has explored a multithreading-based museum study-tour simulation in which students and limited resources must be coordinated.
-These academic experiences help him connect programming concepts with the behavior of real computer systems.
-Anik is interested in developing applications that solve practical problems for university students and local communities.
-One of his ideas is an EWU Room Finder that helps students locate classrooms and other facilities on the East West University campus.
-The application could store information about buildings, floors, room numbers, stairs, and relevant navigation details.
-He is interested in collecting room information using a mobile-friendly interface and presenting simple directions without requiring a complete three-dimensional model of every building.
-Another idea is a course roadmap planner that allows students to organize their university courses across semesters.
-The application could consider course prerequisites, credit limits, semester planning, and PDF export while allowing students to select their own courses.
-He has also explored a local service request and tracking application that connects customers, administrators, and technicians.
-Such an application could track requests through statuses such as Pending, In Progress, and Completed while organizing service information and billing records.
-Anik has experience working with ideas involving HTML, CSS, JavaScript, Google Sheets, PapaParse, and browser local storage.
-One of his application concepts, called Uddog, involves a web interface designed to use spreadsheet-based information.
-He has also explored packaging a web application for Android using a WebView.
-These interests show that he wants to understand how web technologies can be used to build lightweight applications and how data can move between a user interface and a storage source.
-He is interested in developing interfaces that work on mobile devices and prefers clear navigation, readable text, and practical controls over unnecessarily complicated designs.
-Anik is also interested in improving his professional online presence.
-He wants to create a clean, modern, and professional GitHub profile that highlights his technical interests and projects.
-He also wants a professional portfolio website with a simple white-and-black design, subtle animations, responsive layouts, a personal introduction, a skills section, and space to showcase future projects.
-He prefers not to exaggerate his abilities or list projects and professional experiences that he has not actually completed.
-Anik's current technical development environment is a Windows 64-bit computer with an Intel Core i7-1165G7 processor, 16 GB of RAM, an SSD, and Intel Iris Xe integrated graphics.
-He uses or explores programming tools and environments such as Python, Git, Node.
-js, React, Vite, Java development tools, and database software.
-He has encountered practical setup issues involving Python package compatibility, npm execution policies, Git errors, file paths, and development servers.
-He wants instructions that help him understand and resolve these issues directly on his computer.
-He appreciates complete, working code examples and precise setup steps that explain which commands to execute and where to execute them.
-Anik prefers beginner-friendly explanations and practical learning methods.
-When studying a difficult topic, he often benefits from explanations that begin with the basic concept, introduce a small example, show the expected output, and then explain each step.
-He prefers code that is readable and understandable rather than unnecessarily complicated.
-He often asks for complete code that he can copy, run, and modify.
-He also likes educational materials in HTML or PDF format when they make complicated subjects easier to review.
-He is interested in visual roadmaps, diagrams, and simple demonstrations when they help explain technical concepts.
-He wants to learn independently but values clear guidance when starting a new subject or project.
-Anik prefers clean and minimal visual designs.
-For websites, he generally likes white backgrounds, black text, consistent spacing, subtle hover effects, smooth transitions, and responsive layouts.
-He wants interfaces to look professional without excessive decoration.
-He is interested in both frontend and backend development, although his current priority is Python and Data Science rather than mastering every web development framework.
-He may explore additional technologies in the future, including mobile application development frameworks, depending on the requirements of his projects.
-Anik's career interests include Data Analyst, Data Scientist, Machine Learning Engineer, and AI-related roles.
-He wants to understand the differences between these careers and identify the skills required for each one.
-He is interested in the job market in Bangladesh, realistic salary expectations, practical portfolio development, and opportunities to gain experience through projects and internships.
-He wants to strengthen his foundations before applying for professional roles.
-He is also interested in legitimate online earning opportunities and wants to develop marketable technical skills that may eventually support freelance work or other digital income opportunities.
-He values sustainable skill development and wants his future work to reflect his actual abilities.
-Anik enjoys exploring technology, programming tools, artificial intelligence applications, educational resources, and ideas for useful software.
-He is interested in how AI systems retrieve information, understand text, generate responses, and assist with problem-solving.
-He is currently particularly focused on using his NLP project to experiment with semantic search.
-He wants to understand how a search system processes a query, converts text into embeddings, compares vectors, ranks documents, and presents results.
-He is also interested in improving the interface so that users can search naturally and understand why certain documents are retrieved.
-Anik wants to improve his problem-solving ability, academic knowledge, programming confidence, and communication skills.
-He believes that completing practical projects is an important way to turn theoretical knowledge into usable skills.
-He wants to document his learning process, maintain a portfolio of completed work, and gradually develop more complex applications.
-He recognizes that becoming proficient in Data Science and AI requires consistent practice in programming, mathematics, data handling, model evaluation, and software engineering.
-His current priority is to learn Python and successfully implement his semantic search project, while his broader goal is to develop the knowledge and experience needed for a career in Data Science and Artificial Intelligence.
-Overall, Anik is a CSE student who is developing his technical skills and exploring the intersection of programming, data, and artificial intelligence.
-His academic background includes science education and undergraduate computer science studies.
-His technical interests include Python, SQL, Data Science, machine learning, NLP, semantic search, databases, web development, algorithms, and operating systems.
-His current major project focuses on self-supervised semantic search using contrastive representation learning.
-He prefers practical projects, beginner-friendly explanations, readable code, and clean software interfaces.
-He aims to build a strong technical foundation, complete meaningful projects, maintain a professional portfolio, and eventually become a skilled professional in Data Science or Artificial Intelligence.
+Sakib is a 22-year-old university student who lives in Mirpur, Dhaka, Bangladesh.
+Sakib lives with Sakib's family in a comfortable apartment in a residential neighborhood.
+Sakib's family includes Sakib's parents and a younger sibling.
+Sakib enjoys living in Dhaka because Dhaka offers educational institutions, restaurants, shopping malls, libraries, parks, and career opportunities.
+Sakib usually travels by bus, metro rail, or rickshaw when visiting different parts of the city.
+Sakib considers Mirpur a convenient place to live because grocery stores, pharmacies, restaurants, and public transportation are available nearby.
+Sakib prefers quiet places for studying but enjoys busy places when spending time with friends.
+Sakib studies Computer Science and Engineering at a university in Dhaka.
+Sakib is currently completing undergraduate studies and hopes to graduate with good academic results.
+Sakib completed secondary education at a local high school and completed higher secondary education at a college in Dhaka.
+Sakib studied science during secondary and higher secondary education.
+Sakib developed an interest in mathematics, physics, computers, and logical reasoning during school.
+Sakib's favorite academic subject is Computer Science because computer science combines logical thinking, creativity, and practical problem-solving.
+Sakib enjoys learning how computer programs work and how software applications are developed.
+Sakib wants to improve academic performance by attending classes regularly, taking organized notes, practicing programming, and preparing for examinations in advance.
+Sakib is particularly interested in programming, artificial intelligence, machine learning, web development, databases, and software engineering.
+Sakib is learning Python because Python is useful for automation, data analysis, machine learning, and artificial intelligence.
+Sakib is also studying Java, C++, SQL, HTML, CSS, and JavaScript.
+Sakib wants to understand programming fundamentals before moving to advanced topics.
+Sakib practices variables, conditions, loops, functions, classes, lists, dictionaries, and file handling.
+Sakib also wants to learn data structures and algorithms because efficient problem-solving is important for software development.
+Sakib uses online tutorials, documentation, programming exercises, and small personal projects to improve technical knowledge.
+Sakib prefers practical examples that demonstrate how a programming concept works in a real application.
+Sakib's long-term career goal is to become a skilled software engineer.
+Sakib is also interested in artificial intelligence and data science because intelligent systems can analyze information, recognize patterns, and solve complex problems.
+Sakib wants to gain practical experience through academic projects, internships, and independent development.
+Sakib hopes to build useful applications that solve everyday problems.
+Sakib wants to create a professional portfolio containing completed projects, source code, technical documentation, and demonstrations.
+Sakib believes that employers value practical experience, communication skills, problem-solving ability, and a strong understanding of programming fundamentals.
+Sakib also wants to improve English communication and technical writing to communicate effectively with international teams.
+Sakib usually wakes up at 7 AM on university days.
+Sakib starts the morning by brushing teeth, washing the face, drinking water, and preparing for the day.
+Sakib eats breakfast before leaving home.
+Sakib's typical breakfast includes bread, eggs, bananas, or paratha with tea.
+Sakib checks the daily class schedule and packs books, notebooks, a laptop, and other necessary items before leaving.
+Sakib prefers arriving at university early to avoid traffic and prepare for classes.
+Sakib attends lectures, participates in academic activities, takes notes, and discusses difficult topics with classmates.
+Sakib sometimes studies in the university library between classes.
+Sakib usually eats lunch at the university cafeteria or a nearby restaurant.
+Sakib returns home in the afternoon after university classes.
+Sakib eats lunch, rests for a short time, and checks university announcements.
+Sakib reviews lecture notes while the material is still fresh.
+Sakib completes assignments, practices programming problems, and prepares reports for academic projects.
+Sakib usually spends one or two hours practicing programming when the academic schedule allows sufficient time.
+Sakib uses a computer to write code, test programs, read documentation, and troubleshoot errors.
+Sakib takes short breaks to avoid becoming tired during long study sessions.
+Sakib prefers completing difficult academic tasks before spending time on entertainment.
+Sakib sometimes changes the daily routine when examinations, presentations, or project deadlines approach.
+Sakib enjoys going for a walk in the evening.
+Sakib sometimes plays badminton or football with friends to stay physically active.
+Sakib believes physical activity helps reduce stress and improve concentration.
+Sakib returns home, takes a shower when necessary, and eats dinner with family members.
+Sakib spends part of the evening reading, watching educational videos, or working on personal interests.
+Sakib prepares a task list for the following day when the schedule is busy.
+Sakib usually aims to sleep around 11 PM because adequate sleep helps maintain energy and concentration.
+Sakib tries to balance university responsibilities, personal development, recreation, and family time.
+Sakib's favorite food is chicken biryani.
+Sakib enjoys the combination of fragrant rice, spices, tender chicken, and flavorful ingredients.
+Sakib also likes kacchi biryani, beef tehari, fried rice, chicken curry, pizza, burgers, sandwiches, and homemade meals.
+Sakib prefers freshly prepared food and enjoys trying different dishes at local restaurants.
+Sakib's favorite dessert is chocolate cake, and Sakib also enjoys ice cream.
+Sakib's favorite fruit is mango because mangoes are sweet, juicy, and refreshing.
+Sakib enjoys watermelon during hot weather and bananas as a convenient snack.
+Sakib's favorite drink is mango juice, although Sakib also drinks water, milk, and tea.
+Sakib prefers sharing meals with family and friends rather than eating alone at restaurants.
+Sakib's favorite color is blue.
+Sakib likes blue because the color reminds Sakib of the sky, the ocean, peace, and calmness.
+Sakib also likes black and white because these colors create a simple and professional appearance.
+Sakib prefers clean and organized environments.
+Sakib's favorite season is winter because the weather is cooler and outdoor activities are more comfortable.
+Sakib enjoys walking during pleasant weather and drinking hot tea on cool mornings.
+Sakib likes rainy weather when Sakib can stay indoors, listen to music, read, or watch a movie.
+Sakib prefers comfortable clothing and practical accessories rather than unnecessary decoration.
+Sakib enjoys listening to music during free time.
+Sakib likes pop music, acoustic songs, soft instrumental music, and relaxing melodies.
+Sakib sometimes listens to instrumental music while studying because quiet background music can make long study sessions more enjoyable.
+Sakib avoids distracting activities when concentration is necessary.
+Sakib also enjoys watching action movies, science fiction films, adventure movies, and comedy shows.
+Sakib likes stories involving technology, space exploration, futuristic inventions, mysteries, and imaginative worlds.
+Sakib watches online videos about programming, computers, artificial intelligence, science, and technology.
+Sakib uses educational content to discover new tools and understand unfamiliar concepts.
+Sakib's favorite sport is football.
+Sakib enjoys playing football with friends and watching international football tournaments.
+Sakib supports Argentina in international football competitions.
+Sakib also enjoys badminton because badminton provides exercise and can be played with a small group of friends.
+Sakib likes competitive games but believes sports should also be enjoyable and encourage teamwork.
+Sakib sometimes watches sports highlights when Sakib does not have enough time to watch an entire match.
+Sakib enjoys discussing important matches, memorable goals, players, and team performances with friends.
+Sakib enjoys traveling and discovering unfamiliar places.
+Sakib likes visiting parks, historical locations, natural attractions, and popular destinations around Bangladesh.
+Sakib's dream international destination is Japan because Japan combines advanced technology, traditional culture, beautiful landscapes, interesting architecture, and distinctive food.
+Sakib wants to explore Japanese cities, experience public transportation, visit cultural landmarks, and learn about Japanese innovation.
+Sakib also wants to visit Cox's Bazar because the long beach offers opportunities to enjoy the sea and natural scenery.
+Sakib would like to visit Sylhet for its green hills, tea gardens, rivers, and peaceful landscapes.
+Sakib enjoys taking photographs during trips and saving memories of interesting experiences.
+Sakib prefers planning travel expenses and transportation before visiting a new destination.
+Sakib is interested in reading books about science, technology, personal development, and productivity.
+Sakib believes reading helps improve vocabulary, knowledge, creativity, and critical thinking.
+Sakib sometimes watches tutorials instead of reading when learning a technical subject, especially when visual demonstrations make a concept easier to understand.
+Sakib uses online search engines to find documentation, programming examples, and solutions to technical problems.
+Sakib prefers learning from reliable sources and testing information through practical experiments.
+Sakib likes understanding why a solution works instead of copying instructions without understanding the underlying concept.
+Sakib uses a laptop for university assignments, programming, online learning, research, communication, and entertainment.
+Sakib organizes digital files into folders and tries to keep academic documents easy to find.
+Sakib uses a calendar or notebook to remember deadlines, examinations, meetings, and project milestones.
+Sakib sometimes creates checklists to divide large assignments into smaller tasks.
+Sakib believes breaking a complicated problem into manageable steps makes the work less stressful.
+Sakib prefers completing important tasks early rather than waiting until the last moment.
+Sakib wants to improve time management because balancing classes, projects, hobbies, and rest requires careful planning.
+Sakib considers Sakibself curious, friendly, hardworking, and interested in learning new things.
+Sakib enjoys helping classmates understand difficult subjects when Sakib knows the answer.
+Sakib likes collaborative projects because team members can share ideas, divide responsibilities, and learn from each other.
+Sakib values honesty, respect, family, friendship, education, and personal responsibility.
+Sakib prefers spending time with people who are supportive and motivated.
+Sakib sometimes needs quiet time to concentrate on academic work or personal goals.
+Sakib believes that making mistakes is a normal part of learning and that technical problems can provide useful lessons when approached patiently.
+Sakib's favorite place to study is a quiet desk at home or a peaceful university library.
+Sakib prefers a clean workspace with a laptop, notebooks, pens, water, and good lighting.
+Sakib finds it easier to concentrate when unnecessary notifications are disabled.
+Sakib usually studies in focused sessions and takes short breaks between difficult tasks.
+Sakib prefers writing summaries after learning complicated concepts because summaries make revision easier.
+Sakib practices important programming concepts repeatedly until Sakib can explain the logic independently.
+Sakib believes regular practice is more effective than studying everything in a single long session before an examination.
+Sakib is interested in personal finance and wants to learn how to manage money responsibly.
+Sakib wants to understand budgeting, saving, spending priorities, and the importance of maintaining an emergency fund.
+Sakib tries to distinguish necessary expenses from optional purchases.
+Sakib believes that financial planning can help students manage limited resources while continuing their education.
+Sakib is interested in earning money through legitimate work that uses technical knowledge.
+Sakib wants to develop useful professional skills before depending on freelance work or online income.
+Sakib understands that building a reliable source of income requires patience, consistent effort, and the ability to provide value to others.
+Sakib wants to improve communication, confidence, analytical thinking, and professional behavior.
+Sakib recognizes that technical knowledge alone is not enough to succeed in a software development career.
+Sakib wants to learn how to explain technical ideas clearly, write readable documentation, participate in meetings, and collaborate effectively with teammates.
+Sakib plans to improve presentation skills by preparing organized slides and practicing explanations before university presentations.
+Sakib also wants to learn how to receive feedback, identify weaknesses, and improve work without becoming discouraged.
+Sakib believes that continuous improvement is more important than expecting immediate perfection.
+Sakib's ideal weekend begins with waking up without rushing.
+Sakib enjoys eating breakfast with family, organizing unfinished academic tasks, and spending some time learning a new technical concept.
+Sakib may meet friends in the afternoon, visit a restaurant, play football, or watch a movie.
+Sakib sometimes uses the weekend to work on a personal programming project or prepare for the following week's classes.
+Sakib prefers having enough free time to relax rather than filling every hour with work.
+Sakib believes a balanced routine supports long-term productivity and personal happiness.
+Sakib's immediate goal is to perform well at university and strengthen programming fundamentals.
+Sakib's medium-term goal is to complete practical software projects and gain experience through internships or collaborative development.
+Sakib's long-term goal is to become a professional software engineer and explore opportunities in artificial intelligence or data science.
+Sakib hopes to create applications that are useful, reliable, accessible, and easy to understand.
+Sakib wants to continue learning throughout Sakib's career because technology changes rapidly and new tools appear frequently.
+Sakib believes that curiosity, consistency, patience, and practical experience are important for professional success.
+Overall, Sakib is a university student living in Mirpur, Dhaka, who studies Computer Science and Engineering and enjoys programming, technology, sports, music, travel, and good food.
+Sakib follows a routine that includes university classes, academic study, programming practice, exercise, family time, and relaxation.
+Sakib's favorite food is chicken biryani, favorite color is blue, favorite sport is football, and dream travel destination is Japan.
+Sakib wants to build a successful career in software engineering while developing knowledge of artificial intelligence and data science.
+Sakib values education, family, friendship, honesty, personal development, and continuous learning.
